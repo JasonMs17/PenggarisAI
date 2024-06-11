@@ -2,6 +2,7 @@
 
 ## Anggota
 | Nama Anggota | NPM |
+| -------- | ------- |
 | Panji Iman Sujatmiko | 140810220011 |
 | Vernandika Stanley Hansen | 140810220031 |
 | Darren Christian Liharja | 140810220043 |
